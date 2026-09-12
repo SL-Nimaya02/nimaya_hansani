@@ -51,6 +51,13 @@ const designCaseStudies: CaseStudy[] = [
     image: '/images/projects/qtap_mobile.png',
     liveUrl: 'https://www.figma.com/design/UWTDlcbKEVzdGuumXoVCsM/Q-Tap---Customer?t=letAzNxhnwblLGUn-1'
   },
+   {
+    title: 'Care 360 Ceylon',
+    category: 'UI/UX Case Study',
+    description: 'A healthcare web application designed to provide users with convenient access to healthcare-related services and information. The platform focuses on a simple, user-friendly experience for managing services, exploring healthcare options, and connecting users with the support they need.',
+    image: '/images/projects/care_ceylon.png',
+    liveUrl: 'https://www.figma.com/design/g9LGeyXC9qWICiN1rLxJrx/Client-360-Care-Ceylon?node-id=222-2&t=jkRa5ZfRgEQ66yDI-1'
+  },
   {
     title: 'Coffee Shop website',
     category: 'UI/UX Case Study',
