@@ -24,6 +24,13 @@ const designCaseStudies: CaseStudy[] = [
     liveUrl: 'https://www.figma.com/design/vROtIuI6yI8gC4lXsCrql1/Saloon-Booking-Mobile-App?t=jo2B7e0modyuKhps-1'
   },
   {
+    title: 'Saloon Booking Mobile App',
+    category: 'UI/UX Case Study',
+    description: 'A comprehensive mobile solution for salons, featuring a streamlined booking flow, service catalogs, and personalized user profiles. Focused on reducing appointment abandonment and improving user retention.',
+    image: '/images/projects/saloon_booking_mobile_app.png',
+    liveUrl: 'https://www.figma.com/design/vROtIuI6yI8gC4lXsCrql1/Saloon-Booking-Mobile-App?t=jo2B7e0modyuKhps-1'
+  },
+  {
     title: 'EV Charging Booking Mobile App',
     category: 'UI/UX Case Study',
     description: 'Designed a clean and intuitive mobile app that helps EV users find charging stations, check availability, and book slots seamlessly, focusing on smooth user flow and simple navigation.',
