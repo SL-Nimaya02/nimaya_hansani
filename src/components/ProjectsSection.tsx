@@ -42,7 +42,7 @@ const designCaseStudies: CaseStudy[] = [
     category: 'UI/UX Case Study',
     description: 'A mobile system designed for PEPSI distributor representatives to efficiently manage customer visits, product orders, sales activities, and daily operations. It streamlines the ordering process and helps representatives track customer and sales information in one place.',
     image: '/images/projects/pepsi_mobile.png',
-    liveUrl: 'https://www.figma.com/design/qorHwLEuhzj0VrtuikUTYI/Rep-Mobile-Responsive?node-id=0-1&t=letAzNxhnwblLGUn-1'
+    liveUrl: 'https://www.figma.com/design/qorHwLEuhzj0VrtuikUTYI/Rep-Mobile-Responsive?t=letAzNxhnwblLGUn-1'
   },
    {
     title: 'QTap Mobile App',
@@ -59,11 +59,18 @@ const designCaseStudies: CaseStudy[] = [
     liveUrl: 'https://www.figma.com/design/mBugWAaDjeSFT2t2aF0pO6/Coffee-Shop---Sweet-Coffee?node-id=1-2&t=MiPm62OGJz4iQDqU-1'
   },
   {
+    title: 'AI Model Chat UI Design',
+    category: 'UI/UX Case Study',
+    description: 'A modern chat interface designed for an AI-powered model, focusing on clear conversations, intuitive interactions, and a seamless user experience. The design includes message interactions, AI responses, input controls, and a clean interface for efficient communication with AI.',
+    image: '/images/projects/chat_ui.png',
+    liveUrl: 'https://www.figma.com/design/cYGppR3N0RBQh7CcYV9OKc/ABSOL-X-Core-AI---Task-03?node-id=4-105&t=ZsB4zhe4LojAMVKx-1'
+  },
+  {
     title: 'Chat UI mobile App',
     category: 'UI/UX Case Study',
     description: 'Created a clean and minimal chat interface with a focus on usability, message clarity, and smooth interaction flow. Designed intuitive layouts, modern components, and a distraction-free communication experience.',
     image: '/images/projects/chat_ui.png',
-    liveUrl: 'https://www.figma.com/design/TKSKGBGv2gxPcMfI9I56Zj/Chat-UI?t=9nSvHIAeQ0z1ZOvl-1'
+    liveUrl: 'https://www.figma.com/design/TKSKGBGv2gxPcMfI9I56Zj/Chat-UI?node-id=0-1&t=ZsB4zhe4LojAMVKx-1'
   },
   {
     title: 'Juicy Website',
