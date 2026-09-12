@@ -21,21 +21,21 @@ const designCaseStudies: CaseStudy[] = [
     category: 'UI/UX Case Study',
     description: 'A comprehensive mobile solution for salons, featuring a streamlined booking flow, service catalogs, and personalized user profiles. Focused on reducing appointment abandonment and improving user retention.',
     image: '/images/projects/saloon_booking_mobile_app.png',
-    liveUrl: 'https://www.figma.com/design/vROtIuI6yI8gC4lXsCrql1/Saloon-Booking-Mobile-App?t=jo2B7e0modyuKhps-1'
-  },
-  {
-    title: 'Saloon Booking Mobile App',
-    category: 'UI/UX Case Study',
-    description: 'A comprehensive mobile solution for salons, featuring a streamlined booking flow, service catalogs, and personalized user profiles. Focused on reducing appointment abandonment and improving user retention.',
-    image: '/images/projects/saloon_booking_mobile_app.png',
-    liveUrl: 'https://www.figma.com/design/vROtIuI6yI8gC4lXsCrql1/Saloon-Booking-Mobile-App?t=jo2B7e0modyuKhps-1'
+    liveUrl: 'https://www.figma.com/design/GgklKg5oKyOUIAPBiyAndp/Saloon-Booking-Mobile?node-id=0-1&t=letAzNxhnwblLGUn-1'
   },
   {
     title: 'EV Charging Booking Mobile App',
     category: 'UI/UX Case Study',
     description: 'Designed a clean and intuitive mobile app that helps EV users find charging stations, check availability, and book slots seamlessly, focusing on smooth user flow and simple navigation.',
     image: '/images/projects/ev_charging.png',
-    liveUrl: 'https://www.figma.com/design/Dxs1TuduGAtPaqFiJXP8xr/EV-Charging-App?t=jo2B7e0modyuKhps-1'
+    liveUrl: 'https://www.figma.com/design/q7Es8onDzqECNtkYUyeh0N/EV-Charging-App?node-id=681-1460&t=letAzNxhnwblLGUn-1'
+  },
+  {
+    title: 'Bed Room Deco mobile App',
+    category: 'UI/UX Case Study',
+    description: 'A modern mobile app that helps users explore, customize, and purchase bedroom furniture and décor. The app provides an easy and visually engaging experience for discovering products, viewing details, and creating their ideal bedroom space.',
+    image: '/images/projects/bed_room_mobile.png',
+    liveUrl: 'https://www.figma.com/design/N6gTvtJ2NjTsnj7z47aphb/Linen-Loom---Mobile?t=letAzNxhnwblLGUn-1'
   },
   {
     title: 'Coffee Shop website',
