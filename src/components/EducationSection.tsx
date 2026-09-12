@@ -18,7 +18,7 @@ const education: EducationItem[] = [
     institution: 'Informatics Institute of Technology (IIT Campus)',
     period: '2022 — 2026',
     description:
-      'Hands-on engineering program offered by the University of Westminster through IIT, focusing on industry-ready software development and computer science fundamentals.',
+      'A hands-on Software Engineering degree awarded by the University of Westminster through the Informatics Institute of Technology (IIT), providing industry-focused training in software development, computer science fundamentals, and practical engineering. **Completed with Second Upper Class Honours.**',
     highlights: [
       'Active IEEE Student Member',
       'Advanced Web Development',
