@@ -44,6 +44,13 @@ const designCaseStudies: CaseStudy[] = [
     image: '/images/projects/pepsi_mobile.png',
     liveUrl: 'https://www.figma.com/design/qorHwLEuhzj0VrtuikUTYI/Rep-Mobile-Responsive?node-id=0-1&t=letAzNxhnwblLGUn-1'
   },
+   {
+    title: 'QTap Mobile App',
+    category: 'UI/UX Case Study',
+    description: 'A mobile ordering and hospitality app that allows users to discover shops, scan QR codes, browse menus, explore offers, and conveniently place orders. QTap creates a fast and seamless experience for customers while helping businesses manage their digital ordering services.',
+    image: '/images/projects/qtap_mobile.png',
+    liveUrl: 'https://www.figma.com/design/UWTDlcbKEVzdGuumXoVCsM/Q-Tap---Customer?t=letAzNxhnwblLGUn-1'
+  },
   {
     title: 'Coffee Shop website',
     category: 'UI/UX Case Study',
