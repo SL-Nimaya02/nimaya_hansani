@@ -17,7 +17,7 @@ export function AboutSection() {
             <ScrollReveal>
               <p className="text-dark-300 text-base leading-relaxed">
                 I am a Software Engineer working at a growing startup while
-                completing my final year in Software Engineering. With 1.5 years
+                completing my final year in Software Engineering. With 2.5 years
                 of experience across development and design - including
                 collaboration with a Sweden - based company and design experience
                 at CodeGen - I combine academic knowledge with real industry
