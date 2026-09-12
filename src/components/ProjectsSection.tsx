@@ -38,6 +38,13 @@ const designCaseStudies: CaseStudy[] = [
     liveUrl: 'https://www.figma.com/design/N6gTvtJ2NjTsnj7z47aphb/Linen-Loom---Mobile?t=letAzNxhnwblLGUn-1'
   },
   {
+    title: 'PEPSI Mobile Distributor Rep Mobile System',
+    category: 'UI/UX Case Study',
+    description: 'A mobile system designed for PEPSI distributor representatives to efficiently manage customer visits, product orders, sales activities, and daily operations. It streamlines the ordering process and helps representatives track customer and sales information in one place.',
+    image: '/images/projects/pepsi_mobile.png',
+    liveUrl: 'https://www.figma.com/design/qorHwLEuhzj0VrtuikUTYI/Rep-Mobile-Responsive?node-id=0-1&t=letAzNxhnwblLGUn-1'
+  },
+  {
     title: 'Coffee Shop website',
     category: 'UI/UX Case Study',
     description: 'Designed a modern and visually engaging coffee shop website focused on brand identity, smooth navigation, and an intuitive ordering experience. Emphasized warm visuals, clear layout structure, and user-friendly interactions.',
