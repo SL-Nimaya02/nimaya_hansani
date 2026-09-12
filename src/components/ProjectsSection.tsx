@@ -62,7 +62,7 @@ const designCaseStudies: CaseStudy[] = [
     title: 'AI Model Chat UI Design',
     category: 'UI/UX Case Study',
     description: 'A modern chat interface designed for an AI-powered model, focusing on clear conversations, intuitive interactions, and a seamless user experience. The design includes message interactions, AI responses, input controls, and a clean interface for efficient communication with AI.',
-    image: '/images/projects/chat_ui.png',
+    image: '/images/projects/chat_ai.png',
     liveUrl: 'https://www.figma.com/design/cYGppR3N0RBQh7CcYV9OKc/ABSOL-X-Core-AI---Task-03?node-id=4-105&t=ZsB4zhe4LojAMVKx-1'
   },
   {
